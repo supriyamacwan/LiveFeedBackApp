@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NoActionBarAppTheme" parent="AppTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    
+    <style name="button_style" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="backgroundTint">@color/ButtonBackGroundGrey</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/button_width</item>
+        <item name="android:layout_marginLeft">@dimen/button_marginStart</item>
+        <item name="android:layout_marginRight">@dimen/button_marginEnd</item>
+        <item name="android:paddingLeft">@dimen/button_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/button_paddingRight</item>
+        <item name="android:paddingTop">@dimen/button_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/button_paddingBottom</item>
+        <item name="android:textColor">@color/ButtonTextTeal</item>
+    </style>
+
+</resources>
