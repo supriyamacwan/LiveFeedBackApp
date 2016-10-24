@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">LiveFeedBack</string>
-    <string name="app_info">It's a pleasure to hear from you</string>
+    <string name="app_info">It\'s a pleasure to hear from you</string>
     <string name="hello">Hello!</string>
     <string name="button_feedback">Give Feedback</string>
     <string name="button_feedback_status">Feedback Status</string>
+    <string name="feedback_question_hint">Type Question Here</string>
+    <string name="image_button_text">Attach Screenshot</string>
+    <string name="button_text">Post</string>
 </resources>
