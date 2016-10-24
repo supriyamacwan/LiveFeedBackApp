@@ -3,10 +3,10 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="hello_marginTop">64dp</dimen>
-    <dimen name="hello_marginLeft">140dp</dimen>
+    <dimen name="hello_marginLeft">130dp</dimen>
     <dimen name="hello_text_size">30sp</dimen>
     <dimen name="app_info_marginTop">120dp</dimen>
-    <dimen name="app_info_marginLeft">40dp</dimen>
+    <dimen name="app_info_marginLeft">30dp</dimen>
     <dimen name="app_info_text_size">20sp</dimen>
     <dimen name="button_width">370dp</dimen>
     <dimen name="feedback_button_marginTop">200dp</dimen>
@@ -17,4 +17,5 @@
     <dimen name="button_paddingTop">10dp</dimen>
     <dimen name="button_paddingBottom">10dp</dimen>
     <dimen name="feedback_status_button_marginTop">250dp</dimen>
+    <dimen name="post_button_marginTop">400dp</dimen>
 </resources>
