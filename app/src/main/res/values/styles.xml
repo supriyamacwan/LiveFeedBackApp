@@ -17,13 +17,14 @@
         <item name="backgroundTint">@color/ButtonBackGroundGrey</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">@dimen/button_width</item>
-        <item name="android:layout_marginLeft">@dimen/button_marginStart</item>
-        <item name="android:layout_marginRight">@dimen/button_marginEnd</item>
+        <item name="android:layout_marginStart">@dimen/button_marginStart</item>
+        <item name="android:layout_marginEnd">@dimen/button_marginEnd</item>
         <item name="android:paddingLeft">@dimen/button_paddingLeft</item>
         <item name="android:paddingRight">@dimen/button_paddingRight</item>
         <item name="android:paddingTop">@dimen/button_paddingTop</item>
         <item name="android:paddingBottom">@dimen/button_paddingBottom</item>
         <item name="android:textColor">@color/ButtonTextTeal</item>
+        <item name="android:gravity">center</item>
     </style>
 
 </resources>
