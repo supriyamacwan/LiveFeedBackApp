@@ -11,6 +11,7 @@ public class FeedbackPageInfoActivity extends AppCompatActivity {
 
     Button givefeedbackbutton;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
