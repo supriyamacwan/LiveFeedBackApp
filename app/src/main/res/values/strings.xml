@@ -4,6 +4,7 @@
     <string name="hello">Hello!</string>
     <string name="button_feedback">Give Feedback</string>
     <string name="button_feedback_status">Feedback Status</string>
+    <string name="user_name">User Name</string>
     <string name="feedback_question_hint">Type Question Here</string>
     <string name="image_button_text">Attach Screenshot</string>
     <string name="button_text">Post</string>
