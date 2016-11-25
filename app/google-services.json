@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "847196888671",
+    "firebase_url": "https://livefeedbackapp.firebaseio.com",
+    "project_id": "livefeedbackapp",
+    "storage_bucket": "livefeedbackapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847196888671:android:ade38ddf53d5074f",
+        "android_client_info": {
+          "package_name": "com.example.hammerhead.livefeedbackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847196888671-r0fmkp164b1aat5jefs2v6g4f3d0jgsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9nlQNq3HNw0KYau7bCx71wH3rGVdLXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
